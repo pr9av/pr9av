@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pranav Baliyan</h1>
+<h1 align="center">Hi 👋, I'm Pranav Kumar</h1>
 <h3 align="center">A passionate backend Developer & Blockchain Enthusiast</h3>
 
 <p align="center">
