@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranav Kumar</h1>
-<h3 align="center">A passionate backend Developer & Blockchain Enthusiast</h3>
+<h3 align="center"> backend Developer</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" width="400" />
